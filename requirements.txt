@@ -1,3 +1,4 @@
-asgiref==3.11.1
+asgiref==3.11.0
 Django==6.0.4
-sqlparse==0.5.5
+sqlparse==0.5.3
+tzdata==2025.2

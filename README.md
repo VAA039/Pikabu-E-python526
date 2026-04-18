@@ -28,3 +28,6 @@ source venv/bin/avtivate
 
  **Что делает:**
  - Устанавливает все пакеты из файла `requirements.txt` (Django и др.).
+
+**Как запустить сервер:**
+-python manage.py runserver
